@@ -7,7 +7,7 @@ def my_hash
 end
 
 def pioneer
-  return {:name => "Grace Hoper"}
+  return {:name => "Grace Hopper"}
 end
 
 def id_hash_generator(int)
