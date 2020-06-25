@@ -10,3 +10,6 @@ def pioneer
   return {:name => "Grace Hoper"}
 end
 
+def id_hash_generator 
+  
+end
